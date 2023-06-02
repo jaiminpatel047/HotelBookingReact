@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    background-color: #fcf2dd;
+    color: #633a29;
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    transition: ease;
+}
+
+.header-menu::after{
+    content: "";
+    width: 28px;
+    height: 2px;
+    background-color: #633a29;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+}
