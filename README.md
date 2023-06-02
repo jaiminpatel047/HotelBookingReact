@@ -1,3 +1,5 @@
+Title: Hotel Booking Website
+
 Description:
 The Hotel Booking Website is a web application built with React that allows users to search, compare, and book hotels for their desired travel destinations. The project provides a user-friendly interface where users can easily find and select their preferred hotels based on various criteria such as location, price range, amenities, and guest ratings.
 
@@ -16,6 +18,14 @@ React Router: Used for handling routing and navigation within the application.
 Context API: Used for managing global state and sharing data between components.
 CSS: Styling and layout of the website is done using CSS, providing an attractive and intuitive user interface.
 API Integration: Integration with hotel booking APIs to fetch and display hotel data, availability, and pricing.
+Benefits:
+
+User-Friendly Experience: The intuitive interface and search functionality make it easy for users to find and book their desired hotels.
+Time-Saving: Users can quickly compare hotel options, prices, and amenities in one place, saving time in the booking process.
+Personalization: Users can create accounts to save their preferences, view booking history, and receive personalized recommendations.
+Reliable and Secure: The website ensures secure payment transactions and protects user information.
+Responsive Design: The website is responsive and accessible, providing a seamless experience across different devices.
+
 Benefits:
 
 User-Friendly Experience: The intuitive interface and search functionality make it easy for users to find and book their desired hotels.
