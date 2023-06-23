@@ -34,3 +34,6 @@ Personalization: Users can create accounts to save their preferences, view booki
 Reliable and Secure: The website ensures secure payment transactions and protects user information.
 Responsive Design: The website is responsive and accessible, providing a seamless experience across different devices.
 By developing a Hotel Booking Website with React, you can provide users with a convenient and efficient way to search, compare, and book hotels for their travel needs.
+
+
+https://www.amazon.in/JBL-Customized-Resistance-Talk-Thru-FastPair/dp/B0BHDMHHM9/ref=sr_1_8?adgrpid=61644173409&ext_vrnc=hi&hvadid=397737689170&hvdev=c&hvlocphy=9061737&hvnetw=g&hvqmt=e&hvrand=18013957134948948185&hvtargid=kwd-301972083281&hydadcr=7504_1979030&keywords=jbl+earbud&qid=1687518989&sr=8-8
